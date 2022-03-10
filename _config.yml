@@ -2,7 +2,7 @@
 title: Digital Support d.o.o.
 description: Digital Support drustvo sa ogranicenom odgovornoscu za usluge
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.digitalsupport.hr/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://crowiz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
